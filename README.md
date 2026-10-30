@@ -17,7 +17,3 @@ const sagi = {
   currently: "Looking for AI application in Quant"
 }
 ```
-
-## Get in touch :coffee:
-
-- [LinkedIn](https://www.linkedin.com/in/sagishencyi)
